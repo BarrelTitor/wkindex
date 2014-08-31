@@ -1,0 +1,19 @@
+{
+
+  "name": "WK Customizer",
+  "latestVersion": "3.4.3",
+  "lastUpdate": "2014-02-01",
+  "author": "kiko",
+  "type": "extension",
+  "supported": "",
+  "status": "",
+  "platform": {
+    "Chrome": "*"
+  },
+  "license": "null",
+  "threadUrl": "http://www.wanikani.com/chat/api-and-third-party-apps/2254",
+  "sourceUrl": "null",
+  "homepage": "https://chrome.google.com/webstore/detail/pndpijolbflkifbnjcnjdodbemndgmng",
+  "screenshotUrl": "",
+  "description": "Upcoming Reviews timeline, sort Radicals and Kanji when reviewing, and more"
+}
